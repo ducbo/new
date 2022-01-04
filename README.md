@@ -61,4 +61,4 @@ dig +short TXT _psl.cu.al
 make test
 https://gist.github.com/ducbo/df53d865e85eef077490f3f0ce23bb72
 
-Related wontfix: 
+Related wontfix: #1419 https://github.com/publicsuffix/list/pull/1419
